@@ -1,6 +1,6 @@
 # 💸 App de Organização de Finanças Pessoais de JEAN com Vibe Coding
 PRD feito pelo Copilot 
-~~~~~~markdown             # PRD — Aplicativo de Finanças Pessoais com IA
+           # PRD — Aplicativo de Finanças Pessoais com IA
 ## Contexto
 Desejo criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas naturais com o usuário. A proposta é oferecer uma experiência simples e intuitiva, substituindo planilhas e formulários complexos por um diálogo direto com um Agente Financeiro Virtual.
 
@@ -28,7 +28,7 @@ Solicito que a IA produza:
 - Um plano de validação inicial, com métricas para avaliar se o app cumpre seu propósito.  
 
 O tom deve ser educativo, acessível e em português, para garantir que o público-alvo se sinta confortável e engajado.
-~~~~~~                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
 - Seu **prompt final** (PRD);  
