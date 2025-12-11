@@ -28,7 +28,7 @@ Solicito que a IA produza:
 - Um plano de validação inicial, com métricas para avaliar se o app cumpre seu propósito.  
 
 O tom deve ser educativo, acessível e em português, para garantir que o público-alvo se sinta confortável e engajado.
-~~~markdown                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
+~~~~~~                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
 - Seu **prompt final** (PRD);  
