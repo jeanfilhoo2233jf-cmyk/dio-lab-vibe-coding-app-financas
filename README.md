@@ -47,3 +47,47 @@ No README do seu repositório, inclua:
 ## 💬 Conclusão
 
 Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+# Resumo do Projeto: FinançIA
+
+## PRD — Aplicativo de Finanças Pessoais com IA
+
+### Contexto
+Aplicativo de organização financeira que utiliza conversas naturais com o usuário para facilitar o controle de gastos. A proposta é substituir planilhas e formulários por uma experiência interativa com um agente virtual.
+
+### Problema
+Apps tradicionais exigem entrada manual excessiva e são pouco personalizados, o que desmotiva os usuários. A solução proposta busca tornar o processo mais humano, prático e motivador.
+
+### Público-Alvo
+- Iniciantes em organização financeira
+- Usuários que desistiram de apps complexos
+- Jovens adultos em busca de orientação acessível
+
+### Funcionalidades-Chave
+1. Registro de gastos via chat em linguagem natural
+2. Classificação automática de transações
+3. Definição e acompanhamento de metas financeiras
+4. Dicas personalizadas de economia por um agente virtual
+5. Relatórios visuais e personalizados
+
+### Entregáveis da IA
+- Plano de MVP com telas e recursos
+- Fluxo de telas baseado em conversa
+- Definição do agente financeiro (tom e comportamento)
+- Plano de validação inicial com métricas
+
+---
+
+## Site: FinançIA
+
+### Interface
+- Tema escuro com navegação clara: Dashboard, Metas, Relatórios, Ajuda, Configurações
+- Tela principal com assistente virtual que recebe comandos em linguagem natural
+
+### Experiência
+- O usuário interage com o app dizendo frases como:  
+  "Gastei R$50 no mercado" ou "Recebi R$3000 de salário"
+- O assistente responde de forma prática e acolhedora, reforçando a proposta de simplicidade e acessibilidade
+
+### Alinhamento com o PRD
+O site traduz fielmente os objetivos do PRD, oferecendo uma experiência conversacional, intuitiva e centrada no usuário.
+
